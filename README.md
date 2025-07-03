@@ -108,7 +108,6 @@
 🌱 **Curiosidades**
 - Sempre em busca de novos desafios técnicos 💡
 - Acredito que boas automações transformam o dia a dia de um time 🧠⚙️
-- Às vezes começo e paro a academia, mas agora vai! 🏋️‍♂️😅
 - Apaixonado por aprender coisas novas todos os dias 🤓
 
 ---
